@@ -1,0 +1,20 @@
+#contact{
+	strong{
+		color: $purple;
+	}
+	.alpha{
+		@include span-columns(3 of 9);
+		@media screen and (max-width: $break-medium) {
+			@include span-columns(9 of 9);
+		}
+	}
+	.beta{
+		@include span-columns(6 of 9); 
+		img{
+			@include fit-grid(width);
+		}
+		@media screen and (max-width: $break-medium) {
+			@include span-columns(9 of 9);
+		}
+	}
+}

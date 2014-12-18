@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<module>
+	<right name="add" label="Add"/>
+	<right name="edit" label="Edit"/>
+	<right name="delete" label="Delete"/>
+	
+	<component fieldName="title" 	 		className="text" 				classFileName="classes/components/text.php"		/>
+	<component fieldName="content"			className="formattedTextArea" 	classFileName="classes/components/formattedTextArea.php"		/>
+	<component fieldName="description"		className="textArea" 			classFileName="classes/components/textArea.php"		/>
+	<component fieldName="fromEmail" 	 	className="text" 				classFileName="classes/components/text.php"		/>
+	<component fieldName="fromName" 	 	className="text" 				classFileName="classes/components/text.php"		/>
+	<component fieldName="priority" 	 	className="listbox" 			classFileName="classes/components/listbox.php"		/>
+	<component fieldName="attachment" 		className="file" 				classFileName="classes/components/file.php"	/>
+	<component fieldName="archive" 			className="checkbox" 			classFileName="classes/components/checkbox.php"	/>
+	<component fieldName="destination" 	 	className="listbox" 			classFileName="classes/components/listbox.php"		/>
+	<component fieldName="group" 			className="multiCheckbox" 		classFileName="classes/components/multiCheckbox.php"	/>
+</module>

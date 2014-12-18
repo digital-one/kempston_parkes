@@ -1,0 +1,71 @@
+body {margin: 0px;padding: 0px;font-family:"Times New Roman", Times, serif;font-size: 12px;color: #686868;font-weight: normal; line-height:17px;background: #ffffff url(../images/tlo.jpg) repeat-x top center;}
+a {	font-size: 12px;font-weight: bold;	color: rgb(78, 42, 95);	text-decoration: none;font-family:"Times New Roman", Times, serif;}
+a:hover {color: rgb(78, 42, 95);text-decoration: underline;font-size: 12px;font-weight: bold;font-family:"Times New Roman", Times, serif;}
+a:focus {outline: none;}
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+#all {margin:0px; padding:0px;}
+#template {width:960px;margin:auto;position:relative;}
+#top { width:960px;margin:auto; padding:0px;}
+.img_top  {float:left; border:none;margin:0px; padding:0px;}
+
+#section_1 {float:left;background: url(../images/kempston_01.jpg) no-repeat top left;width:419px;height:155px;margin:0px; padding:0px;}
+#section_2 {float:left;background: url(../images/kempston_02.jpg) no-repeat top left;width:541px;height:155px;margin:0px; padding:0px;}
+#section_3 {float:left;background: url(../images/kempston_03.jpg) no-repeat top left;width:273px;height:441px;margin:0px; padding:0px; padding:70px 0px 0px 10px; color:#FFFFFF;font-size: 14px;}
+#section_4 {float:left;background: url(../images/kempston_04.jpg) no-repeat top left;width:677px;height:511px;margin:0px; padding:0px;}
+
+#menu {margin:0px; width:792px; height:40px;float:left; padding:0px 0px 0px 10px; font-family:"Times New Roman", Times, serif;}
+#menu ul {margin:0px; list-style-type:none; float:left; padding:0px; font-family:"Times New Roman", Times, serif;}
+#menu li {margin:0px; padding:0px; list-style-type:none; float:left; font-family:"Times New Roman", Times, serif;}
+#menu li a {margin:0px 10px 0px 0px; padding:0px 10px 0px 0px; list-style-type:none; float:left;font-size: 11px; display:block; color:#ffffff; font-weight:bold;height: 32px;line-height: 4em;display: block;text-decoration: none;text-align: center; font-family:"Times New Roman", Times, serif;border-right:1px solid #9d89a5;}
+#menu li a:hover {margin:0px 10px 0px 0px; padding:0px 10px 0px 0px; list-style-type:none; text-decoration:underline; float:left; font-size: 11px;display:block;color:#846b8e; font-weight:bold; font-family:"Times New Roman", Times, serif;}
+
+
+#bottom {width:960px; padding:0px 0px 20px 0px; margin:auto;font-size:11px;}
+#bottom_section_1 {width:333px;padding:0px 0px 0px 0px;margin:0px 0px 10px 0px;float:left;}
+
+hr {border:0px; height:1px; margin:0px 0px 0px 0px; border-top:1px dotted #a694ae;}
+
+h1,h2,h3,h4,h5,h6 {font-weight:bold;padding:0px;margin:0px; font-weight:bold;}
+h1 {         font-size:28px;  color:#000000;}
+h2 {         font-size:21px;  color:#4e2a5d; font-family:Georgia, "Times New Roman", Times, serif;font-weight:normal;padding:5px 0px 0px 0px; }
+h3 {    	 font-size:14px; color:#4e2a5d;padding:0px 0px 10px 0px;}
+h4 {         font-size:13px; color:#000000;}
+
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+#container {margin:auto;width:960px;}
+#content {width: 960px; float:left;  margin:0px; padding:20px 0px 0px 0px;}
+
+.our_clients {background: url(../images/our_clients.jpg) no-repeat top left;width:200px;height:243px;padding:10px;}
+.our_clients p { height:180px;margin:0px; padding:0px;word-spacing:-1px;}
+
+
+#footer { width:100%; margin:auto;}
+.footer { width:960px; margin:auto; padding:0px 0px 20px 0px;text-align:left; }
+.footer a {color: #000000;font-weight: bold;}
+.footer a:hover {font-weight: bold;}
+
+.footer_left{width:650px;float:left;text-align:left; padding:10px 0px 10px 0px;font-weight: normal;}
+.footer_left a {font-weight: normal;}
+.footer_left a:hover {font-weight: normal;}
+
+.footer_right{ width:350px;float:right;text-align:right;padding:10px 0px 10px 0px;font-weight: normal; }
+.footer_right a {font-weight: normal;}
+.footer_right a:hover {font-weight: normal;}
+
+.clear{clear:both;}
+
+
+#vertical_container {width: 700px;}	
+.accordion_toggle {display: block;height: 37px;padding: 0 10px 5px 10px;line-height: 37px;color: #ffffff;font-weight: normal;text-decoration: none;outline: none;font-size: 12px;color: #000000;border-bottom: 0px solid #cde99f;cursor: pointer;margin: 0 0 0 0;background: url(../images/bar.jpg) repeat-x top center;}
+.accordion_toggle_active {display: block;height: 37px;padding: 0 10px 5px 10px;line-height: 37px;color: #ffffff;font-weight: normal;text-decoration: none;outline: none;font-size: 12px;color: #000000;border-bottom: 0px solid #cde99f;cursor: pointer;margin: 0 0 0 0;background: url(../images/expand.jpg) repeat-x top center;}
+
+.title_position {width:700px;margin:auto;}
+.title_position h2 {color:#FFFFFF; padding:0px 0px 0px 0px; font-size:14px;}
+		
+.accordion_content {width:700px;margin:auto; position:relative;	background-color: #ffffff;color: #444444;overflow: hidden;}
+.accordion_content h3 {padding:10px;margin: 0px;color: #484848; font-size:20px;}
+.accordion_content p {padding:10px;margin:0px;}
+
+
+

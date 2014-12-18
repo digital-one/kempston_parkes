@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<module>
+	<right name="add" label="Add"/>
+	<right name="edit" label="Edit"/>
+	<right name="delete" label="Delete"/>
+	<right name="import" label="Import"/>
+	<right name="export" label="Export"/>
+	
+	<component fieldName="groupId" 	 		className="select" 				classFileName="classes/components/select.php"		/>
+	<component fieldName="email" 	 		className="text" 				classFileName="classes/components/text.php"		/>
+	<component fieldName="active" 			className="checkbox" 			classFileName="classes/components/checkbox.php"	/>
+</module>

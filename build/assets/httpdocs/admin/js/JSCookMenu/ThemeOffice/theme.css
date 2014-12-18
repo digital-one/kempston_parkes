@@ -1,0 +1,50 @@
+.ThemeOfficeMenu,.ThemeOfficeSubMenuTable{font-family:verdana, arial, sans-serif;font-size:	13px;padding:0;	white-space:nowrap;	cursor:	default;border:1px solid #000000;}
+.ThemeOfficeSubMenu{position:absolute;visibility:hidden;overflow:hidden;padding:0px;border:	0px;background-color:transparent;}
+
+.ThemeOfficeSubMenuTable{background-color:#000000;border:1px solid #000000;width:174px;margin:0px 0px 0px 1px;}
+
+.ThemeOfficeMainItem,.ThemeOfficeMainItemHover,.ThemeOfficeMainItemActive,
+.ThemeOfficeMenuItem,.ThemeOfficeMenuItemHover,.ThemeOfficeMenuItemActive
+{border:0;cursor:default;white-space:nowrap;}
+
+.ThemeOfficeMainItem{background-color:	#000000;color:#ffffff; height:30px;border:1px solid #000000;padding:5px;margin:5px;}
+.ThemeOfficeMainItemHover,.ThemeOfficeMainItemActive{background-color:	#eeeeee;border:1px solid #000000;padding:5px;margin:5px;}
+.ThemeOfficeMainItem{padding:0px;border:0;padding:3px;margin:5px;border:1px solid #000000;}
+td.ThemeOfficeMainItemHover,td.ThemeOfficeMainItemActive{padding:0px;padding:3px;margin:5px;}
+
+.ThemeOfficeMainFolderLeft,.ThemeOfficeMainItemLeft,
+.ThemeOfficeMainFolderText,.ThemeOfficeMainItemText,
+.ThemeOfficeMainFolderRight,.ThemeOfficeMainItemRight{background-color:inherit;white-space:nowrap;padding:2px;margin:0px;}
+
+td.ThemeOfficeMainFolderLeft,td.ThemeOfficeMainItemLeft{border:	0;background-color:inherit;white-space:nowrap;}
+td.ThemeOfficeMainFolderText,td.ThemeOfficeMainItemText{border:	0;background-color:inherit;white-space:nowrap;}
+td.ThemeOfficeMainItemRight,td.ThemeOfficeMainFolderRight{border:0;background-color:inherit;white-space:nowrap;}
+
+.ThemeOfficeMenuItem{background-color:	#eeeeee;color:#000000;padding:0px;margin:0px;}
+.ThemeOfficeMenuItemHover,.ThemeOfficeMenuItemActive{background-color:	#a7a7a7;border:1px solid #000000;}
+.ThemeOfficeMenuFolderLeft,.ThemeOfficeMenuItemLeft{padding:0px 0px 0px 0px;margin:1px;border:	0;	white-space:nowrap;	}
+.ThemeOfficeMenuFolderText,.ThemeOfficeMenuItemText{padding:5px;margin:5px;border:	0;white-space:nowrap;}
+
+.ThemeOfficeMenuFolderRight,
+.ThemeOfficeMenuItemRight{border:0;	white-space:nowrap;padding:5px;margin:5px; text-align:right;}
+
+.ThemeOfficeMenuItemHover .ThemeOfficeMenuFolderLeft,
+.ThemeOfficeMenuItemActive .ThemeOfficeMenuFolderLeft,
+.ThemeOfficeMenuItemHover .ThemeOfficeMenuItemLeft,
+.ThemeOfficeMenuItemActive .ThemeOfficeMenuItemLeft{padding:0px 0px 0px 0px;margin:0px;}
+
+.ThemeOfficeMenuItemHover .ThemeOfficeMenuFolderText,
+.ThemeOfficeMenuItemActive .ThemeOfficeMenuFolderText,
+.ThemeOfficeMenuItemHover .ThemeOfficeMenuItemText,
+.ThemeOfficeMenuItemActive .ThemeOfficeMenuItemText{padding:5px;margin:5px;}
+
+.ThemeOfficeMenuItemHover .ThemeOfficeMenuFolderRight,
+.ThemeOfficeMenuItemActive .ThemeOfficeMenuFolderRight,
+.ThemeOfficeMenuItemHover .ThemeOfficeMenuItemRight,
+.ThemeOfficeMenuItemActive .ThemeOfficeMenuItemRight{padding:5px;margin:5px;}
+
+td.ThemeOfficeMenuSplit{margin:	0px;padding:0px;border:	0px;}
+div.ThemeOfficeMenuSplit{margin:0px;padding:0px;overflow:	hidden;	background-color:	inherit;	border-top:	1px solid #4e4e4e;}
+.ThemeOfficeMenuItem img.seq1{	display:	inline;}
+.ThemeOfficeMenuItemHover seq2,.ThemeOfficeMenuItemActive seq2{display:	inline;}
+.ThemeOfficeMenuItem .seq2,.ThemeOfficeMenuItemHover .seq1,.ThemeOfficeMenuItemActive .seq1{display:	none;}

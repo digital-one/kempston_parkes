@@ -1,0 +1,45 @@
+section,#footer{
+	padding:32px 0;
+	position: relative;
+	.container{
+		&:before{
+			content:"";
+			height:1px;
+			display: block;
+			@include abs-pos(-32px,15px,0,15px);
+			background: url('../images/dotted-line.svg') left top repeat-x;
+			background-size: auto 1px;
+		}
+	}
+	main{
+		@include span-columns(9);
+		@media screen and (max-width: $break-small) {
+			@include span-columns(12);
+		}
+	}
+	aside{
+		@include span-columns(3);
+		@media screen and (max-width: $break-small) {
+			@include span-columns(12);
+		}
+	}
+}
+a.anchor{
+	@include abs-pos(-32px,15px,auto,auto);
+	display: inline-block;
+	background-color: $purple;
+	color:white;
+	text-transform: uppercase;
+	@include font-size(11);
+	padding:0 8px;
+	height:18px;
+	line-height:18px;
+	text-align:center;
+}
+a#top{
+	width:0;
+	height:0;
+	@include opacity(0);
+	display:block;
+	overflow:hidden;
+}

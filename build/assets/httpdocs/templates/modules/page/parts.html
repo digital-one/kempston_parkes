@@ -1,0 +1,8 @@
+<table width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td align="left">This page has {num} parts: </td>
+		<? if(!empty($previous)) print('<td align="right"><a href="{previous}" name="previous">&laquo;</a></td>'); ?>
+		<td align="center">{parts}</td>
+		<? if(!empty($next)) print('<td align="left"><a href="{next}" name="next">&raquo;</a></td>'); ?>
+	</tr>
+</table>

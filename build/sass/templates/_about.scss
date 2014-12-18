@@ -1,0 +1,14 @@
+#about-us{
+	.container{
+		&:before{
+			background:none;
+		}
+	}
+	background:url('../images/home-divide.jpg') center top repeat-x;
+	.alpha,.beta,.gamma{
+		@include span-columns(3 of 9);
+		@media screen and (max-width: $break-medium) {
+			@include span-columns(12); 
+		}
+	}
+} 

@@ -1,0 +1,94 @@
+#our-services{
+	.alpha,.beta{
+		@include span-columns(4.5 of 9);
+		@media screen and (max-width: $break-medium) {
+			@include span-columns(9 of 9);
+		}
+	}
+	.beta{
+ 		@include omega;
+	}
+	.gamma{
+		@include span-columns(12);
+	}
+	.accordion{
+		margin-bottom: 60px;
+		dt,dd{
+			margin:0;
+		}
+		dt{
+			background-color: $purple;
+			color: white;
+			@extend %clearfix;
+			@include font-size(14);
+			text-transform: uppercase;
+			padding: 11px;
+			cursor: pointer;
+			margin-bottom: 10px;
+			@include transition(background-color 0.1s ease-in-out);
+			span{
+				display: block;
+				float:left;
+				line-height: 16px;
+				height: 16px;
+				em{
+					font-style: normal;
+				}
+				&.link{
+					float: right;
+					color: $grey;
+					@include font-size(12);
+					height:16px;
+					line-height: 16px;
+					padding-right: 30px;
+					position: relative;
+					em{
+						@media screen and (max-width: $break-xsmall) {
+							display: none;
+						}
+					}
+					&:after{
+						content:"";
+						width:16px;
+						height:16px;
+						display: block;
+						@include abs-pos(0,0,auto,auto);
+						background-image:url('../images/plus.svg');
+						.ie8 &{
+							background-image:url('../images/plus.png');
+						}
+						background-position: left center;
+						background-repeat: no-repeat;
+						background-size: auto 16px;
+					}
+				}
+				&.label{
+					em{
+						color: $grey;
+						margin-right: 12px;
+					}
+				}
+			}
+			&:hover,&:active,&.active{
+				background-color: $mid-grey;
+			}
+			&.active{
+				span.link:after{
+					background-position: right center;
+				}
+			}
+		}
+		dd{
+			padding: 10px 5px 20px;
+			color: $purple;
+			&:last-child{
+				padding-bottom:0;
+			}
+			p,ul{
+				&:last-child{
+					margin-bottom: 0;
+				}
+			}
+		}
+	}
+} 

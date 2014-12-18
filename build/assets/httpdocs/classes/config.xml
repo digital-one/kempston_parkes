@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+<db>
+	<login value="kempsto2_kemp" />
+	<pass value="dcp4all" />
+	<address value="localhost" />
+	<name value="kempsto2_kemp" />
+</db>
+
+<address>http://kempston-parkes.co.uk</address>
+<seo>
+	<statsUrl value="http://localhost/seo/index.php?id=1" />
+</seo>
+
+<newsletter>
+	<defaultGroupId value="1" />
+	<incorrectEmail value="Incorrect email address" />
+	<emailExists value="Email already in use" />
+	<emailDoesntExists value="This email is not in use" />
+	<added value="Subscription successful" />
+	<deleted value="Email deleted from newsletter" />
+	<notDeleted value="Email cant be deleted" />
+</newsletter>
+
+<title>KEMPSTON</title>
+<keywords>K</keywords>
+<description>D</description>
+
+<pl>
+	<title>DCPCMS PL</title>
+	<keywords>K</keywords>
+	<description>D</description>
+</pl>
+
+<email>
+	<from value="info@kempston-parkes.co.uk" />
+	<fromName value="KEMPSTON" />
+	<altBody value="Your mail browser does not support HTML message format." />
+	<mailer value="mail" />
+	<charset value="UTF-8" />
+	<auth value="false" />
+	<host value="" />
+	<login value="" />
+	<pass value="" />
+</email>
+
+<form>
+	<error value="Your message was not sent." />
+	<sendLimit value="25" />
+	<sendLimitInfo value="Number of form submissions exceeded" />
+	<incorrectImageToken value="Code entered in not vaild" />
+</form>
+
+<imageToken>
+	<background>
+		<r value="250"/>
+		<g value="250"/>
+		<b value="250"/>
+	</background>
+	<foreground>
+		<r value="220"/>
+		<g value="220"/>
+		<b value="220"/>
+	</foreground>
+	<shadow>
+		<r value="169"/>
+		<g value="169"/>
+		<b value="169"/>
+	</shadow>
+</imageToken>
+
+
+</configuration>

@@ -1,0 +1,70 @@
+#home{
+	background-color: $purple;
+	color: white;
+	@include font-size(14);
+	@media screen and (min-width: $break-small+1) and (max-width: $break-medium) {
+		@include font-size(12);
+		line-height: 120%;
+		p{
+			margin-bottom: 15px;
+		}
+	}
+	padding:0;
+	.container{
+		&:before{
+			background: none;
+		}
+	}
+	aside{
+		@include span-columns(4);
+		padding: 2% 0 0;
+		@media screen and (max-width: $break-large) {
+			@include span-columns(5);
+		}
+		@media screen and (max-width: $break-medium) {
+			@include span-columns(6);
+			padding-top: 0;
+		}
+		@media screen and (max-width: $break-small) {
+			@include span-columns(12);
+		}
+	}
+	blockquote{
+		footer{
+			padding:118px 0 0;
+			background:url('../images/signature.png') left top no-repeat;
+			font-weight: bold;
+			@media screen and (max-width: $break-large) {
+				padding:0;
+				background: none;
+			}
+			small{
+				font-weight: normal;
+				display: block;
+			}
+		}
+	}
+	.alpha{
+		@include span-columns(8);
+		margin-top: -50px;
+		@media screen and (max-width: $break-large) {
+			@include span-columns(7);
+		}
+		@media screen and (max-width: $break-medium) {
+			@include span-columns(6);
+		}
+		@media screen and (max-width: $break-small) {
+			@include span-columns(12);
+			margin-top: 0;
+			padding: 0 10px;
+		}
+		@media screen and (max-width: $break-xsmall) {
+			margin-top:10px;
+		}
+		img{
+			@include fit-grid(width);
+			display: block;
+			max-width:668px;
+		}
+	}
+}

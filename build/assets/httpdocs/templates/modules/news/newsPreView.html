@@ -1,0 +1,11 @@
+<div class="newsPreView">
+	<h3><a href="{link}" class="more">{title}</a></h3>
+	<div style="clear:both;"></div>
+	<span class="date">{newsDate}</span>
+	<div style="clear:both;"></div>
+	<? if(!empty($image)) print('<a href="'.$link.'"><img src="'.$image.'" class="imageBorder" alt="'.$title.'" /></a>'); ?>
+	<p>{shortDescription}</p>
+	<div style="clear:both;"></div>
+	<a href="{link}" class="see_more"><img src="data/images/see_more.jpg" alt="" class="img_top" /></a>
+</div>
+

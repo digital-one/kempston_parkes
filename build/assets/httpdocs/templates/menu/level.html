@@ -1,0 +1,15 @@
+<?
+
+	if(is_array($items)) 
+	{
+		print('<ul>');
+		foreach($items AS $item) 
+		{
+			print('<li><a ');
+			if($item["active"]) print('href="'.$item["url"].'"');
+			print('>'.$item["name"].'</a>'.$item["sublevel"].'</li>');
+		}
+		print('</ul>');
+	}
+
+?>

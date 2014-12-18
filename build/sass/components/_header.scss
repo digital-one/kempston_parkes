@@ -1,0 +1,49 @@
+header#header{
+	height:205px;
+	padding-bottom:20px;
+	padding-top:46px;
+	background: $purple url('../images/header-divide.jpg') center bottom repeat-x;
+	@extend %clearfix;
+	@media screen and (max-width: $break-small) {
+		height:auto;
+		padding-top:70px;
+	}
+	#home-link{
+		@include abs-pos(48px,15px,auto,auto);
+		width:265px;
+		height: 59.134px;
+		display: block;
+		background:url('../images/kempston-parkes.svg') left top no-repeat;
+		background-size: 265px auto;
+		@extend %ir;
+		margin:0;
+		.ie8 &{
+			background:url('../images/kempston-parkes.png') left top no-repeat;
+		}
+		@media screen and (max-width: $break-medium) {
+			@include abs-pos(28px,15px,auto,auto);
+		}
+		@media screen and (max-width: $break-small) {
+			position: relative;
+			top:auto;
+			right:auto;
+			margin: 0 15px 30px;
+		}
+	}
+	h2{
+		@include abs-pos(0,auto,auto,15px);
+		font-family: $plantin;
+		width: 45%;
+		color: $blue-grey;
+		@include font-size(28);
+		line-height: 110%;
+		text-transform: none;
+		@media screen and (max-width: $break-small) {
+			width:auto;
+			position: relative;
+			top:auto;
+			left:auto;
+			margin: 0 15px 30px;
+		}
+	}
+}

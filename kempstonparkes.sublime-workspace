@@ -1,0 +1,1207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"testi",
+				"testimonials-slider"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"quan",
+				"quantity_2"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"bg-",
+				"bg-cover"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-menu"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"dar",
+				"dark-grey"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"aside",
+				"asideHeight"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bu",
+				"button-inner"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"incorr",
+				"incorrectPanel"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"di",
+				"dinreg"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"roboto",
+				"roboto-sans"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"poit",
+				"position"
+			],
+			[
+				"lt",
+				"lt-blue"
+			],
+			[
+				"din",
+				"dinbold"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"lie",
+				"line-height"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bordet",
+				"border-bottom"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"sec",
+				"section_no_old"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"w",
+				"widgets_btn_overview_handler"
+			],
+			[
+				"title",
+				"title_clear"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fade-",
+				"fade-in"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"scale",
+				"scaleX"
+			],
+			[
+				"fade",
+				"fade-in"
+			],
+			[
+				"touc",
+				"first_touch"
+			],
+			[
+				"show",
+				"showThreesixty"
+			],
+			[
+				"rotate",
+				"rotateZ"
+			],
+			[
+				"slide-brand",
+				"slide-brand-03"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"fist",
+				"first"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"slide-b",
+				"slide-business-06"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"slide",
+				"slide-title"
+			],
+			[
+				"slides_co",
+				"slides_count"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"b",
+				"background-attachment"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"web",
+				"webkitTransitionEnd"
+			],
+			[
+				"remv",
+				"removeClass"
+			],
+			[
+				"menu_i",
+				"menu_is_init"
+			],
+			[
+				"me",
+				"menu_show"
+			],
+			[
+				"app",
+				"app_state"
+			],
+			[
+				"set",
+				"set_app_mode"
+			],
+			[
+				"lin",
+				"link_anim_d"
+			],
+			[
+				"rota",
+				"rotateX"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"content",
+				"contents"
+			],
+			[
+				"quickmen",
+				"quickmenu_moveto"
+			],
+			[
+				"quick",
+				"quickmenu_show"
+			],
+			[
+				"quic",
+				"quickmenu_show"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"is",
+				"is_open"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/kempstonparkesco/sass/components/_header.scss",
+			"settings":
+			{
+				"buffer_size": 1224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/kempstonparkesco/js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 5548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/kempstonparkesco/page-templates/services-page.php",
+			"settings":
+			{
+				"buffer_size": 2402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/kempstonparkesco/page-templates/testimonials-page.php",
+			"settings":
+			{
+				"buffer_size": 3309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/kempstonparkesco/page-templates/contact.php",
+			"settings":
+			{
+				"buffer_size": 564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/kempstonparkesco/page-templates/about-page.php",
+			"settings":
+			{
+				"buffer_size": 600,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/footer.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/page-templates/blog.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/index.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/sidebar.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/sass/templates/_all.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/header.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/comments.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/archive.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/functions.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-includes/general-template.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/search.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/sass/components/_global.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/sass/components/_forms.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/sass/_normalize.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/sass/_variables.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/sass/templates/_blog.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/single.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/sass/components/_navigation.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/sass/components/_container.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/kempstonparkes.sql",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-includes/comment-template.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/content.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/inc/template-tags.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/components/_global.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/js/scripts.js",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/components/_all.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/components/_typography.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/components/_navigation.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/templates/_contact.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/templates/_services.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/header.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/footer.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/index.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/_base.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/components/_header.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/_variables.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/components/_forms.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-config.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/front-page.php",
+		"/Applications/MAMP/htdocs/kempston-parkes/wp-content/themes/kempstonparkesco/js/scripts.js",
+		"/Users/neilmills/Downloads/kempston_parkes.sql",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/templates/_all.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/templates/_about.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/templates/_home.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/components/_container.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/templates/_testimonials.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/components/_footer.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/sass/helpers/mixins/_abs-pos.scss",
+		"/Applications/MAMP/htdocs/kempston-parkes/images/map.svg",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/front-page.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/template-page-2.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/templates/_chapter-overview.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/helpers/mixins/_all.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/helpers/mixins/_responsive-video.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/templates/_home.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_slider.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/js/scripts.js",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_footer.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/templates/_previous-books.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/_variables.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/archive-news.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/_footer.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/helpers/mixins/_group.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_container.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_header.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/header.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/single-news.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/templates/_news.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_navigation.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_forms.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_global.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/templates/_all.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_typography.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/template-page-1.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_gravityforms.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/footer.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/helpers/_placeholders.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/_base.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/sass/components/_all.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/fonts/ocr-a_regular-webfont.eot",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/images/video-slide-bg.jpg",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-config.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/build/sass/templates/_home.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/build/sass/components/_gravityforms.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/functions.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/build/sass/components/_header.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/_variables.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/components/_container.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/components/_gravityforms.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/components/_typography.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/templates/_home.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/index.php",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/components/_forms.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/components/_global.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/components/_footer.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/components/_header.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/build/sass/_footer.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/build/sass/components/_footer.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/build/sass/components/_global.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/helpers/_placeholders.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/helpers/mixins/_border-radius.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/_base.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/fastforward.sql",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/js/jquery-1.10.1.min.js",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/helpers/_placeholders.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/helpers/mixins/_all.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/helpers/mixins/_border-radius.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/_variables.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/_base.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/components/_header.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/components/_typography.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/templates/_home.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/components/_global.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/sass/components/_all.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/wp-content/themes/fast_forward/style.css",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/components/_container.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/components/_footer.scss",
+		"/Applications/MAMP/htdocs/coyote/fast_forward/sass/components/_navigation.scss",
+		"/Applications/MAMP/htdocs/altinet/sass/templates/_webinars.scss",
+		"/Applications/MAMP/htdocs/altinet/about.html",
+		"/Applications/MAMP/htdocs/altinet/solutions.html",
+		"/Applications/MAMP/htdocs/altinet/index.html",
+		"/Applications/MAMP/htdocs/altinet/solutions-detail.html",
+		"/Applications/MAMP/htdocs/altinet/partners.html",
+		"/Applications/MAMP/htdocs/altinet/partner-detail.html",
+		"/Applications/MAMP/htdocs/altinet/videos.html",
+		"/Applications/MAMP/htdocs/altinet/single-news.html",
+		"/Applications/MAMP/htdocs/altinet/archive-news.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://kempstonparkes.localhost",
+			"box",
+			"search-submit\"",
+			"placeholder=\"Search",
+			"placeholder=\"Search …\">",
+			"Search for",
+			"search",
+			"nav-links",
+			"says",
+			"comment-meta",
+			"comment-author",
+			"comments-title",
+			"You may use these HTML tags an",
+			"Post navigation",
+			"kempstonparkesco_paging_nav",
+			"kempstonparkesco_posted_on",
+			"<h1",
+			"aside",
+			"<h1>",
+			"getPages",
+			"loadPages",
+			"http://92.60.114.159/~kempstonparkesco",
+			"push-link",
+			"half",
+			"issuu",
+			"issu",
+			".social",
+			"fruitful",
+			"intro",
+			"slider-footer",
+			"section",
+			"social",
+			"fruitful",
+			"http://fastforward.localhost",
+			"32px",
+			"32",
+			".button",
+			"gravityforms",
+			"gravityforms.js",
+			"header",
+			"18px",
+			"20px",
+			"header",
+			"overflow",
+			"<a href=\"~altinetco/build/",
+			"action=\"/build/",
+			"<a href=\"/build/",
+			"wrap",
+			"clearfix",
+			"aside",
+			"class=\"partner\"",
+			"wp-current",
+			".page-contribute ",
+			"height: auto !important",
+			".grid-item.two-by-two",
+			"height: auto",
+			"isotope",
+			"img",
+			"id=\"games\"",
+			"featured-game",
+			"home",
+			"play",
+			"feature",
+			"bar_box",
+			".expand_menu",
+			"outer_nav",
+			"nav",
+			"overflow",
+			"#outer_nav",
+			"media",
+			".home-slider-wrapper",
+			"outer_body_container",
+			".green",
+			"outer_nav",
+			"Games",
+			"titan",
+			"console",
+			"zoomContainer",
+			"zoomWindow",
+			"<script",
+			"text",
+			"transition",
+			"trans",
+			"current",
+			"btn",
+			"_btn",
+			"server-errors",
+			"Email is already taken\n",
+			"	\n",
+			"Email is already taken.",
+			"Entry encountered errors when saving",
+			"ul,",
+			"ul",
+			"your_points",
+			".header_content",
+			"counter_container",
+			"btn_text",
+			"sticker h4",
+			".btn_text",
+			".header-account-wrapper",
+			".sticker06",
+			"=",
+			".sticker06",
+			".sticker",
+			".gold",
+			".bronze .main_pannel",
+			"span.bronze",
+			".bronze",
+			"tabs",
+			".grad",
+			"pink",
+			"h2",
+			".bronze",
+			"sticker",
+			"bronze",
+			"heading",
+			"sticker",
+			"enter-competition",
+			"body_container",
+			"list",
+			"filter_content",
+			"list",
+			"filter_content",
+			"Quizzes",
+			"swf",
+			"carousel_sec",
+			"</xsl:template>",
+			"play"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a href=\"/~altinetco/build/",
+			"action=\"/~altinetco/build/",
+			"<a href=\"~altinetco/build/",
+			"slide_old",
+			"slide_new",
+			"title_hide",
+			"title_show",
+			"header_show",
+			"console.log",
+			"quickmenu",
+			"end",
+			"---------------------",
+			"",
+			"s07_05",
+			"present",
+			"s09_06",
+			"s09_05",
+			"s09_04",
+			"s09_03",
+			"s09_02",
+			"promo-01",
+			"s09_01",
+			"promo-01",
+			"promo-0",
+			"promot-01",
+			"09_06",
+			"09_05",
+			"09_04",
+			"09_03",
+			"09_02",
+			"permanent-02",
+			"row_05",
+			"row_04",
+			"row_03",
+			"row_02",
+			"s07_04",
+			", ",
+			"s06_03",
+			"s06_02",
+			"},this));",
+			"},this);",
+			"s05_03",
+			"promo",
+			"permanent",
+			"promo",
+			"permanent",
+			"instore",
+			"lineup",
+			"lazyfade",
+			"fragrance-03",
+			"s05_03",
+			"s05_02",
+			"s05_01",
+			"fragrance-01",
+			"s05",
+			"fragrance",
+			"brand",
+			"14",
+			"_11",
+			"-11",
+			"11",
+			"10",
+			"08",
+			"09",
+			"-09",
+			"-05",
+			"-03",
+			"hilite-colour",
+			"s01_08",
+			"s01_07",
+			"",
+			"s01_05",
+			"fragrance",
+			"brand",
+			".slide-title",
+			"#title",
+			"header",
+			"d",
+			"' + t + '",
+			"quickmenu",
+			"z-below",
+			"z-above",
+			"z-bottom",
+			"t_1500",
+			"t_500",
+			"",
+			"translateX(75px) ",
+			"",
+			"transform",
+			"t_1000",
+			"",
+			",",
+			"",
+			"hilite-colour",
+			"quickmenu",
+			"this.config.testing.debug",
+			"helvetica_neue_normal",
+			"helvetica_neue_bold",
+			"helvetica_neue_heavy",
+			"helvetica_neue_blk",
+			"helvetica_neue_bld",
+			"helvetica_neue_bd",
+			"helvetica_neue_med",
+			"helvetica_neue_lt_Md",
+			"helvetica_neue_lt",
+			"helvetica_neue_lt_xBlk",
+			"../",
+			"menu-container",
+			"'home'",
+			"widgets_btn_home_handler",
+			"	border-bottom: 2px solid #e20044;\nwidgets_btn_home_handler",
+			"#menu-container",
+			"if (ev.gesture)",
+			"cubeface tiled",
+			"logo_live_cube",
+			"menu_show",
+			"videointro_show",
+			"logointro_show",
+			"this.log",
+			"testing.",
+			"app_init",
+			"logointro",
+			"logo-intro",
+			"logointro",
+			"logo-intro",
+			"logo_intro",
+			"logo_intro_show",
+			"logo_intro"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/kempstonparkesco/sass/components/_header.scss",
+					"settings":
+					{
+						"buffer_size": 1224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/kempstonparkesco/js/scripts.js",
+					"settings":
+					{
+						"buffer_size": 5548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3701,
+								3701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2074.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/kempstonparkesco/page-templates/services-page.php",
+					"settings":
+					{
+						"buffer_size": 2402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/kempstonparkesco/page-templates/testimonials-page.php",
+					"settings":
+					{
+						"buffer_size": 3309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/kempstonparkesco/page-templates/contact.php",
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wp-content/themes/kempstonparkesco/page-templates/about-page.php",
+					"settings":
+					{
+						"buffer_size": 600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 63.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gameviw",
+				"nokia-the-connection/www/workspace/pages/games_view.xsl"
+			],
+			[
+				"commons",
+				"nokia-the-connection/www/workspace/assets/js/common.js"
+			],
+			[
+				"commonjs",
+				"nokia-the-connection/www/workspace/games/126823/common.js"
+			],
+			[
+				"maincoff",
+				"nokia-the-connection/www/workspace/games/278329/js/lib/game/views/main.coffee"
+			],
+			[
+				"comm",
+				"nokia-the-connection/www/workspace/games/126823/common.js"
+			],
+			[
+				"gameques",
+				"nokia-the-connection/www/workspace/pages/games_view_questions.xsl"
+			],
+			[
+				"gameq",
+				"nokia-the-connection/www/workspace/pages/games_view_questions.xsl"
+			],
+			[
+				"common",
+				"juggle/wp-admin/js/common.js"
+			],
+			[
+				"commsjs",
+				"nokia-the-connection/www/workspace/games/278329/bower_components/jquery/src/manipulation/support.js"
+			],
+			[
+				"comms",
+				"nokia-the-connection/www/extensions/markdown/lib/htmlpurifier-4.5.0-standalone/standalone/HTMLPurifier/ConfigSchema/schema/Output.CommentScriptContents.txt"
+			],
+			[
+				"gamequestions",
+				"nokia-the-connection/www/workspace/pages/games_view_questions.xsl"
+			],
+			[
+				"vagra",
+				"nokia-the-connection/Vagrantfile"
+			],
+			[
+				".ht",
+				"nokia-the-connection/www/.htaccess"
+			],
+			[
+				"bran",
+				"StartInitiativePC_Data/Mono/etc/mono/browscap.ini"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/My Work/TagPac/INTERACTIVE_SALES_FOLDERS/GUCCI_GUILTY_STUDS_LE/APP_DEV/CURRENT/dev.sublime-project"
+			]
+		],
+		"width": 823.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true
+}

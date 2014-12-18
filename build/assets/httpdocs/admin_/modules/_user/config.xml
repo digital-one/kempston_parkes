@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<module>
+<right name="add" label="Add"/>
+<right name="edit" label="Edit"/>
+<right name="delete" label="Delete"/>
+	
+<component fieldName="login" 				className="text" 			classFileName="classes/components/text.php" />
+<component fieldName="pass"  				className="text"			classFileName="classes/components/text.php" />
+<component fieldName="name" 				className="text" 			classFileName="classes/components/text.php" />
+<component fieldName="description" 			className="textArea" 		classFileName="classes/components/textArea.php" />
+<component fieldName="modules" 				className="modules" 		classFileName="modules/_user/modules.php" />
+<component fieldName="active" 				className="activeCheckbox" 	classFileName="classes/components/checkbox/activeCheckbox.php" />
+
+</module>

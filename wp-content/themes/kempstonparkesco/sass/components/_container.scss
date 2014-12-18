@@ -1,0 +1,11 @@
+.container{
+	@include outer-container;
+	position: relative;
+	padding: 0 15px;
+}
+main{
+		@media screen and (max-width: $break-small) {
+			margin-bottom: 30px;
+
+		}
+}

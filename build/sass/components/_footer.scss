@@ -1,0 +1,11 @@
+#footer-nav{
+	display:block;
+	a{
+		&:link,&:visited{
+			color: $grey;
+		}
+		&:hover,&:active{
+			color: $purple;
+		}
+	}
+}

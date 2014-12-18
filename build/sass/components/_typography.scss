@@ -1,0 +1,31 @@
+h1,h2,h3,h4{
+	@include font-size(21);
+	color: $purple;
+	text-transform: uppercase;
+	line-height: 100%;
+	font-weight: normal;
+	margin: 0 0 20px;
+}
+h3,h4{
+	@include font-size(14);
+}
+@media screen and (max-width: $break-medium) {
+			h2{
+				@include font-size(18);
+			}
+		}
+p,ul,dl{
+	margin-bottom: 20px;
+}
+a{
+	@include transition(color 0.1s ease-in-out, background-color 0.1s ease-in-out);
+	&:link,&:visited{
+		color: $purple;
+		text-decoration: none;
+	}
+	&:hover,&:active{
+		section &{
+			border-bottom: 1px dotted $purple;
+		}
+	}
+}

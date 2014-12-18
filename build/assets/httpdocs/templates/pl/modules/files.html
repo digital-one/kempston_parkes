@@ -1,0 +1,21 @@
+<h1>Do pobrania</h1>
+<div style="clear:both;"></div>
+{limit}
+<? 
+if(is_array($items))
+foreach($items AS $item)
+print('
+<table width="100%" border="0" cellspacing="5" cellpadding="0">
+	<tr>
+		<td width="20"><img src="'.$item["ico"].'" alt="'.$item["ico_name"].'" /></td>
+		<td><b>'.$item["name"].'</b></td>
+		<td align="right"><a href="'.$item["link"].'" target="_blank">download&nbsp;&raquo;</a></td>
+    </tr>
+	<tr>
+		<td colspan="3">'.$item["description"].'</td>
+    </tr>
+</table>
+');
+
+?>
+

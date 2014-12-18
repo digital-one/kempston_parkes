@@ -1,0 +1,78 @@
+#testimonials{
+	padding-bottom:22px;
+	blockquote{
+		@include span-columns(3 of 9);
+		@media screen and (min-width: $break-medium+1) {
+			@include omega(3n);
+		}
+		margin-bottom: 3.16844%;
+		background-color: $light-grey;
+		p{
+			padding: 12px 12px 25px;
+		}
+		footer{
+			position: relative;
+			padding: 0 0 70px;
+			text-indent: 12px;
+			span{
+				color: $purple;
+			}
+			&:after{
+				content:"";
+				display: block;
+				height:44px;
+				width:100%;
+				@include abs-pos(auto,auto,0,0);
+				background: white url('../images/quote-box-pointer.svg') left top no-repeat;
+				.ie8 &{
+					background: white url('../images/quote-box-pointer.png') left top no-repeat;
+				}
+				background-size: auto 44px;
+			}
+		}
+		@media screen and (min-width: $break-xsmall+1) and (max-width: $break-medium) {
+			@include span-columns(4.5 of 9);
+			@include omega(2n);
+		}
+		@media screen and (max-width: $break-xsmall) {
+			@include span-columns(12);
+
+		}
+	}
+	footer#testimonials-footer{
+		@include span-columns(12);
+		text-align: center;
+		margin: 20px 0;
+		a{
+			background-color:$mid-grey;
+			color: white;
+			text-align: center;
+			display: inline-block;
+			height:26px;
+			line-height: 26px;
+			@include font-size(12);
+			text-transform: uppercase;
+			font-family: $plantin;
+			padding: 0 15px;
+			margin: 0 auto;
+			position: relative;
+			&:hover,&:active{
+				border:none;
+				background-color: $purple;
+			}
+			&.loading{
+				cursor: default;
+				background-color: $mid-grey;
+				padding-right:38px;
+				&:after{
+					content:"";
+					width:16px;
+					height:16px;
+					display: block;
+					@include abs-pos(5px,10px,auto,auto);
+					background:url('../images/loader.gif') center center no-repeat;
+				}
+			}
+		}
+	}
+}

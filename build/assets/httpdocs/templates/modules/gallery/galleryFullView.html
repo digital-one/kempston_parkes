@@ -1,0 +1,27 @@
+<!-- lightbox -->
+<script type="text/javascript" src="data/js/lightbox/prototype.js"></script>
+<script type="text/javascript" src="data/js/lightbox/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="data/js/lightbox/lightbox.js"></script>
+
+<div class="galleryFullView">
+<div class="back"><a href="{back}">&laquo;&nbsp;back</a></div>
+<? if(is_file($image)) print('<img src="'.$image.'" class="imageBorder" alt="'.$title.'" />'); ?>
+<h3>{name}</h3>
+<div style="clear: both; height:10px;"></div>
+{fullDescription}
+<div style="clear: both; height:10px;"></div>
+</div>
+
+{limit}
+
+<? 
+if(is_array($items))
+foreach($items AS $item)
+{
+	print('
+	<div class="galleryFullViewItem">
+	<!--<p>'.$item["title"].'</p>-->
+	<div class="imageBorder"><table cellpadding="0" cellspacing="0" width="100%" height="100%"><tr><td><a href="'.$item["imgBig"].'" rel="lightbox[gallery]" title="'.$item["title"].'" ><img src="'.$item["imgMini"].'" alt="'.$item["title"].'"  class="imageBorder" /></a></td></tr></table></div>
+	</div>');
+}
+?>

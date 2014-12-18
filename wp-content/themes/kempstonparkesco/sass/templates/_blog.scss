@@ -1,0 +1,68 @@
+article.post{
+	margin:0 40px 30px 0;
+	padding-bottom:30px;
+	position: relative;
+	h2{
+		@include font-size(18);
+	}
+	&:after{
+			content:"";
+			height:1px;
+			width:100%;
+			display: block;
+			@include abs-pos(auto,auto,0,0);
+			background: url('../images/dotted-line.svg') left top repeat-x;
+			background-size: auto 1px;
+		}
+}
+#respond{
+	margin: 40px 0 0;
+}
+ul.comment-list{
+	li{
+		position: relative;
+		padding: 0 0 20px;
+		margin-bottom: 20px;
+		&:after{
+			content:"";
+			height:1px;
+			width:100%;
+			display: block;
+			@include abs-pos(auto,auto,0,0);
+			background: url('../images/dotted-line.svg') left top repeat-x;
+			background-size: auto 1px;
+		}
+	}
+}
+.comment-author {
+	margin-bottom: 10px;
+}
+.back-link{
+	float: right;
+}
+form.search-form{
+	margin-bottom: 30px;
+	@extend %clearfix;
+	.screen-reader-text{
+		display: block;
+		width: 100%;
+	}
+	input{
+		float: left;
+	}
+	input.search-field{
+		width:66%;
+		@media screen and (max-width: $break-large) {
+			width:100%;
+			margin-bottom: 5px;
+		}
+	}
+	input.search-submit{
+		width:32%;
+		padding:0 5px;
+		float:right;
+		@media screen and (max-width: $break-large) {
+			width:100%;
+		}
+	}
+}

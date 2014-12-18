@@ -1,0 +1,13 @@
+<h1>Search</h1>
+<div style="clear:both;"></div>
+	{limit}
+<?
+	if(is_array($items))
+	{
+		print('<ul>');
+		foreach($items AS $item)
+		print('<li><a href="'.htmlentities($item["link"]).'">'.$item["name"].'</a></li>');
+		print('</ul>');
+	}
+	else print('No items found.');
+?>

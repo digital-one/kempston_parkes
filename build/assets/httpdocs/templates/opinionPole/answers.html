@@ -1,0 +1,11 @@
+<form action="{action}" method="post">
+<ul>
+<?
+if(is_array($items))
+foreach($items AS $item)
+print('<li><input type="'.$type.'" value="'.$item["id"].'" name="answers[]" />'.$item["answer"].'</li>');
+
+?>
+</ul>
+<div style="float:right;"><input type="image" src="data/images/opinionPole/vote.jpg" name="vote" /></div>
+</form>

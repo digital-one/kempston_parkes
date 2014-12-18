@@ -1,0 +1,38 @@
+body{margin: 5px;padding: 0px;background: #FFFFFF;}
+body,table{font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 12px;font-weight: normal;color: #000000;}
+#mainTable{width: 100%;height: 100%;}
+a{	text-decoration:none;}
+a:hover{text-decoration:underline;}
+.defaultForm{margin:0px;}
+.defaultTableHeaderField{color:#ffffff;}
+.defaultTh{background-color:#000000;}
+.defaultHr{height:1px;background: #e6e6e6;color: #e6e6e6;border: 0;}
+.defaultCheckbox{text-align:left;}
+.defaultPosition {width:25px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;height:18px;color: #1D68A0; background-color: #F4F5F7;	border: 1px solid #000000;}
+.defaultButton,.defaultMenuButton{font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight:bold;height:22px;border: 1px solid #eeeeee; background-color:#000000; color:#FFFFFF;}
+.defaultCalendar{background: #ffffff url(images/calendar.gif) repeat-x;width:80px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;height:18px;color: #1D68A0; background-color: #F4F5F7;border: 1px solid #000000;}
+.defaultText {width:400px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal; height:25px;color: #1D68A0; background-color: #F4F5F7; border: 1px solid #767676;margin:2px;padding:2px;}
+.defaultColorPicker{width:70px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;height:18px;color: #1D68A0; background-color: #F4F5F7; border: 1px solid #000000;}
+.defaultColorPickerPreview{	width:18px;height:18px;border:1px solid #000000;margin-left:1px;cursor: pointer;}
+.defaultTextarea{width:400px;height:100px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;color: #1D68A0; background-color: #F4F5F7; border: 1px solid #000000;}
+.defaultTabbedPane{	border: 1px solid #aaaaaa;}
+.defaultTabbedPaneHeader,.defaultTabbedPaneHeader a{background-color:#C8C8C8;color:#8f8f8f;}
+.defaultTabbedPaneHeaderSelected,.defaultTabbedPaneHeaderSelected a{background-color:#C8C8C8;color:#000000;font-weight:bold;}
+.defaultImage{height:18px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;color: #1D68A0; background-color: #F4F5F7; border: 1px solid #000000;}
+td.defaultPageTitle{font-family: Trebuchet ms;font-size:18px;height:35px;background-color:#cccccc;padding-left:10px;}
+.defaultBottom{font-weight:normal;}
+.defaultPassword{width:200px;height:18px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;color: #1D68A0; background-color: #F4F5F7; border: 1px solid #000000;}
+.defaultQuery{color: #1D68A0;}
+.defaultSelect{height:18px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;color: #1D68A0; background-color: #F4F5F7; border: 1px solid #000000;}
+.defaultMultiSelect{height:100px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;color: #1D68A0; background-color: #F4F5F7;border: 1px solid #000000;}
+.defaultFile{height:18px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;color: #1D68A0; background-color: #F4F5F7; 	border: 1px solid #000000;}
+.defaultPositionBar{font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;color: #000000;}
+.defaultPrice,.defaultNumber{width:100px;font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px;font-weight: normal;height:18px;color: #1D68A0; background-color: #F4F5F7; border: 1px solid #000000;}
+.defaultHint{width: 400px; background-color: rgb(255,255,225);position: absolute;z-index: 5;padding: 1px;border: 1px solid rgb(180,180,180);visibility: hidden;text-align: left;font-weight:normal;line-height: 18px;}
+
+table.error{color:#000000;height:50px;font-weight:bold;background-color:#FEFAEB;border-top: 1px solid #FF0000;border-bottom: 1px solid #FF0000;}
+table.info{	color:#000000;height:50px;font-weight:bold;background-color:#FFFEF2;border-top: 1px solid #FEDD6A;border-bottom: 1px solid #FEDD6A;}
+
+
+
+

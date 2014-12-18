@@ -1,0 +1,20 @@
+<div id="gallery">
+{limit}
+
+<? 
+if(is_array($items))
+foreach($items AS $item)
+{
+	if(is_file($item["photo"])) 
+	print('<div class="galleryPreView"><a href="'.$item["link"].'" title="'.$item["name"].'">
+	<div class="photo" style="background: url('.$item["photo"].')">
+		<div class="title"><h3>'.$item["name"].'</h3></div>
+	</div></a>
+	</div>');
+}
+
+?>
+
+
+
+</div>

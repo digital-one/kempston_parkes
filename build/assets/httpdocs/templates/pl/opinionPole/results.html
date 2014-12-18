@@ -1,0 +1,9 @@
+Number of people voted  {votes}
+<ul>
+<?
+if(is_array($items))
+foreach($items AS $item)
+print('<li>'.$item["answer"].'<br /><img src="data/images/opinionPole/1percent.jpg" width="'.$item["width"].'" height="10"/> '.$item["percent"].' %</li>');
+
+?>
+</ul>

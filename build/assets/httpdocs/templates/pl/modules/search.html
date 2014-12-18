@@ -1,0 +1,12 @@
+<h1>Szukaj</h1>
+<?
+	if(is_array($items))
+	{
+		print($limit);
+		print('<ul>');
+		foreach($items AS $item)
+		print('<li><a href="'.htmlentities($item["link"]).'">'.$item["name"].'</a></li>');
+		print('</ul>');
+	}
+	else print('Nie znaleziono nic.');
+?>

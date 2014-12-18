@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<module>
+	<right name="add" label="Add"/>
+	<right name="edit" label="Edit"/>
+	<right name="delete" label="Delete"/>
+	
+	<component fieldName="langId" 	 		className="select" 				classFileName="classes/components/select.php"				/>
+	<component fieldName="title" 	 		className="text" 				classFileName="classes/components/text.php"					/>
+	<component fieldName="description"		className="formattedTextArea" 	classFileName="classes/components/formattedTextArea.php"	/>
+	<component fieldName="active" 			className="checkbox" 			classFileName="classes/components/checkbox.php"				/>
+	<component fieldName="multiselection" 	className="checkbox" 			classFileName="classes/components/checkbox.php"				/>
+</module>
